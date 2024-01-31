@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+.App {
+    min-height: 100vh;
+    display: flex;
+    background-image: url("https://img.freepik.com/free-vector/colorful-3d-background_23-2148484152.jpg?size=626&ext=jpg&ga=GA1.1.1413502914.1696809600&semt=ais");
+    background-size: cover;
+    background-position: center;
+}
