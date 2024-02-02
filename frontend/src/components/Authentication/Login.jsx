@@ -35,7 +35,7 @@ const Login = () => {
         <InputGroup>
           <Input
             type={show ? "text" : "password"}
-            placeholder="Enter your Password"
+            placeholder="Enter the Password"
             onChange={(e) => setPassword(e.target.value)}
           />
           <InputRightElement>
